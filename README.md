@@ -2,9 +2,11 @@
 Files that let you generate a server for H2M
 
 # How to install
+<pre>
 server_default.bat - Put in your game directory
 server_default.cfg - Put in your gamedirectory
 user_scripts - Put in your h2m-mod folder within your directory
+</pre>
 
 # Your directory should look like this
 <pre>
